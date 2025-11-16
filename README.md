@@ -4,9 +4,12 @@
 
 [cite_start]This project was submitted in 2024 in partial fulfillment of the requirements for the award of the BSc Degree in Computer Science from the University of Kerala, by students of Naipunnya School of Management, Cherthala[cite: 1, 14, 16].
 
-![CYBERHAWK Homepage Screenshot]
+*Screenshots*
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/563db8cf-2870-42fa-b125-fba294a93d1a" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/b2755be1-f64b-40a2-a6a5-796f9dbc13c2" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/661dd300-146e-441c-97df-db22802d50d4" />
+
 
 
 ---
