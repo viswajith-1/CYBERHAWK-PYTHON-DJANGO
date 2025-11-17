@@ -2,8 +2,6 @@
 
 **CYBERHAWK** is a comprehensive web platform designed to combat the rising threat of cybercrime. It serves as a centralized hub for users to report cybercrimes, access vital educational resources, and stay informed with real-time cybersecurity news.
 
-[cite_start]This project was submitted in 2024 in partial fulfillment of the requirements for the award of the BSc Degree in Computer Science from the University of Kerala, by students of Naipunnya School of Management, Cherthala[cite: 1, 14, 16].
-
 *Screenshots*
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/563db8cf-2870-42fa-b125-fba294a93d1a" />
